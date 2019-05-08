@@ -1,0 +1,2 @@
+/usr/bin/ar qc libigl_lim.a  CMakeFiles/igl_lim.dir/home/chris/surf/fracmap/libigl/include/igl/lim/lim.cpp.o
+/usr/bin/ranlib libigl_lim.a

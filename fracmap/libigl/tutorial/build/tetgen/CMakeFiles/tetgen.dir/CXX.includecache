@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chris/surf/fracmap/libigl/external/tetgen/predicates.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+float.h
+-
+fpu_control.h
+-
+tetgen.h
+/home/chris/surf/fracmap/libigl/external/tetgen/tetgen.h
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+
+/home/chris/surf/fracmap/libigl/external/tetgen/tetgen.cxx
+tetgen.h
+/home/chris/surf/fracmap/libigl/external/tetgen/tetgen.h
+
+/home/chris/surf/fracmap/libigl/external/tetgen/tetgen.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+assert.h
+-
+stdint.h
+-
+

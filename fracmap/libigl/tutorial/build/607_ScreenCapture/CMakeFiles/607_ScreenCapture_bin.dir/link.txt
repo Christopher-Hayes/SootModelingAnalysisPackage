@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/607_ScreenCapture_bin.dir/main.cpp.o  -o ../607_ScreenCapture_bin ../libigl.a ../libigl_opengl.a ../libigl_opengl_glfw.a ../libigl_png.a ../glfw/src/libglfw3.a -lrt -lm -lX11 ../libigl_opengl.a ../libigl.a -lpthread -lGL ../glad/libglad.a -ldl ../stb_image/libigl_stb_image.a 

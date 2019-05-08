@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chris/surf/fracmap/libigl/tutorial/106_ViewerMenu/main.cpp
+igl/readOFF.h
+-
+igl/opengl/glfw/Viewer.h
+-
+igl/opengl/glfw/imgui/ImGuiMenu.h
+-
+igl/opengl/glfw/imgui/ImGuiHelpers.h
+-
+imgui/imgui.h
+-
+iostream
+-
+tutorial_shared_path.h
+/home/chris/surf/fracmap/libigl/tutorial/106_ViewerMenu/tutorial_shared_path.h
+

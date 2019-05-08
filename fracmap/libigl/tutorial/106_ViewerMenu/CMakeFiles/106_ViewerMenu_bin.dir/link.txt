@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/106_ViewerMenu_bin.dir/main.o  -o 106_ViewerMenu_bin -ligl::core -ligl::opengl -ligl::opengl_glfw -ligl::opengl_glfw_imgui -ltutorials 

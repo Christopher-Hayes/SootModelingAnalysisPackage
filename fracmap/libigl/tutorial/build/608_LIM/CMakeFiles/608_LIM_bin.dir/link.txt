@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/608_LIM_bin.dir/main.cpp.o  -o ../608_LIM_bin ../libigl.a ../libigl_lim.a ../libigl_opengl.a ../libigl_opengl_glfw.a ../lim/liblim.a ../libigl.a ../libigl_opengl.a ../libigl.a -lGL ../glad/libglad.a ../glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
