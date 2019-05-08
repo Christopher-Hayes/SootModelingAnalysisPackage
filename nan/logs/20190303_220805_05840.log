@@ -1,0 +1,220 @@
+2019-Mar-03 22:08:05.287744 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.290012 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742236
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.290157 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.290269 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.291920 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742201
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.292023 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.292098 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.293770 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742182
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.293900 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.293992 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.295554 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742207
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.295662 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.295778 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.297312 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742150
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.297391 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.297484 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.299328 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742182
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.299443 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.299568 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.301161 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742154
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.301292 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.301644 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.303775 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742174
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.303891 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.303947 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.305930 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742195
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.306112 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.306209 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.308442 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742162
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.308555 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.308640 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.310542 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742178
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.310682 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.310767 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.313081 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742221
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.313238 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.313331 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.315274 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742173
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.315420 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.315511 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.317101 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742161
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.317219 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.317295 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.318852 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742183
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.318979 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.319061 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.320750 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742151
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.320864 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.320967 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.322687 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742179
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.322920 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.323020 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.324863 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742208
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.325092 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.325187 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.326903 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742182
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.327020 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.327085 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.328854 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742151
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.328961 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.329038 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.330633 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742178
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.330749 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.330852 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.332491 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742195
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.332588 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.332668 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.334286 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742151
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.334398 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.334518 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.336065 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742199
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.336142 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.336216 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.337902 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742162
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.338001 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.338113 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.339875 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742187
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.339988 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.340087 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.341888 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742174
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.342021 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.342102 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.343857 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742149
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.343964 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.344067 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.345692 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742156
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.345788 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.345888 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.347487 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742151
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.347588 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.347673 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.349568 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742163
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.349720 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.349809 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.352097 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742230
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.352235 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.352327 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.354453 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742208
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.354553 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.354610 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.356417 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742323
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.356534 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.356593 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.358692 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742199
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.358848 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.358937 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.361251 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742312
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.361450 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.361588 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.363182 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742177
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.363327 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.363426 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.364954 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742207
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.365050 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.365115 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.366704 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742150
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.366779 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.366870 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.368373 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742163
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.368440 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.368512 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.369961 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742201
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.370052 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.370181 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.371966 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742311
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.372206 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.372408 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.374479 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742152
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.374618 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:08:05.374699 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2019-Mar-03 22:08:05.376393 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.742181
+  epsilon = 0.500000
+2019-Mar-03 22:08:05.376718 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.

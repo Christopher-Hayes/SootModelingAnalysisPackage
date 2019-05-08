@@ -1,0 +1,120 @@
+2019-Mar-03 22:16:00.949461 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:00.952787 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:00.954559 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:00.957285 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:00.961507 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:00.964330 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:00.964937 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:00.966343 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:00.968802 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:00.976336 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:00.983177 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:00.987781 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:00.994827 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.014419 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.017176 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-55.066682, -117.896593, 241.280677). Trying new monomer.
+2019-Mar-03 22:16:01.019573 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.022308 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.027355 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.029851 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.031224 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.034433 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000019
+2019-Mar-03 22:16:01.034596 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (96.376664, 236.941505, -19.198359)
+2019-Mar-03 22:16:01.034685 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:16:01.034743 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:16:01.034796 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 4890.000000
+2019-Mar-03 22:16:01.034865 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:16:01.037105 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.038349 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.040328 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.043765 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.046154 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.051451 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.053970 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.062225 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.068320 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.073202 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.077411 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.079459 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.082042 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.084864 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.086957 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.089473 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:16:01.094769 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.097215 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.100144 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.101991 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.104813 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.113812 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.115043 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.116370 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.117903 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.119909 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.121906 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.125112 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.126433 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.127600 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.129221 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.130470 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.133307 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-55.066682, -117.896593, 241.280677). Trying new monomer.
+2019-Mar-03 22:16:01.136052 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.138413 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.140237 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.143174 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.144801 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.147601 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.148432 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.152864 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-55.066682, -117.896593, 241.280677). Trying new monomer.
+2019-Mar-03 22:16:01.155300 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.157361 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.162362 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.164461 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.165813 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.171625 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.172352 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.176849 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.178457 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.180018 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.181877 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.182543 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.184839 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.196794 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-55.066682, -117.896593, 241.280677). Trying new monomer.
+2019-Mar-03 22:16:01.199345 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.201477 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.204988 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.206625 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.207658 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.211613 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.215887 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.218824 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:16:01.220585 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.222052 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.224734 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.226404 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.227672 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.229248 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000002
+2019-Mar-03 22:16:01.229336 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (268.423141, -32.836550, -49.954194)
+2019-Mar-03 22:16:01.229429 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:16:01.229537 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:16:01.229640 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 4920.000000
+2019-Mar-03 22:16:01.229737 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:16:01.231195 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.232882 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.234095 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.235792 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.237000 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.239458 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.241209 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.241762 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.246124 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.247343 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.249205 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.250831 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.252759 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.255177 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-61.717169, 78.193195, -218.276937). Trying new monomer.
+2019-Mar-03 22:16:01.258810 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.261435 info[fractal.cpp:112] [34m[INFO] Failed to attach to (24.067707, 156.354919, -98.742765). Trying new monomer.
+2019-Mar-03 22:16:01.262055 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.265527 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.268168 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-48.688645, 101.113703, -81.046310). Trying new monomer.
+2019-Mar-03 22:16:01.269904 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-55.066682, -117.896593, 241.280677). Trying new monomer.

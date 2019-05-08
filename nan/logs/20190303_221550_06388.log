@@ -1,0 +1,135 @@
+2019-Mar-03 22:15:50.938195 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:50.944108 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:50.954507 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:50.963920 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:50.971352 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:50.986049 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:50.994284 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000007
+2019-Mar-03 22:15:50.994487 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-36.089399, -178.785132, 137.542179)
+2019-Mar-03 22:15:50.994600 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:50.994694 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:50.994782 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 1950.000000
+2019-Mar-03 22:15:50.994898 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:50.997640 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.001029 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.012990 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.027764 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.034421 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.035064 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.043077 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.049278 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.054027 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.054254 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000022
+2019-Mar-03 22:15:51.054394 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-26.292563, -232.407008, 74.636566)
+2019-Mar-03 22:15:51.054591 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.054685 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.054774 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 1980.000000
+2019-Mar-03 22:15:51.054849 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.056681 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.063802 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.074542 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.078552 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.088140 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.090722 info[fractal.cpp:112] [34m[INFO] Failed to attach to (12.827387, -34.850165, -47.126682). Trying new monomer.
+2019-Mar-03 22:15:51.094021 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.098815 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.099716 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.111660 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.120379 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000003
+2019-Mar-03 22:15:51.120744 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (54.039289, 105.288835, -123.493771)
+2019-Mar-03 22:15:51.120842 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.120922 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.120998 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2010.000000
+2019-Mar-03 22:15:51.121080 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.135962 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.140002 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.151250 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.173283 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.180334 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.188012 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000001
+2019-Mar-03 22:15:51.188211 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-136.129838, -218.780282, 46.585147)
+2019-Mar-03 22:15:51.188418 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.188648 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.188786 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2040.000000
+2019-Mar-03 22:15:51.188886 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.189370 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.198436 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.206353 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.213754 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.216052 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.224136 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.233161 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.234116 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.234815 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.244705 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000003
+2019-Mar-03 22:15:51.244862 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-204.881371, -36.706597, -140.193379)
+2019-Mar-03 22:15:51.245003 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.245081 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.245205 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2070.000000
+2019-Mar-03 22:15:51.245283 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.255583 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.257975 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.259134 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.276156 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.280833 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.281733 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.284094 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.288345 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.297016 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000003
+2019-Mar-03 22:15:51.297218 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (24.438264, -193.146377, -160.503478)
+2019-Mar-03 22:15:51.297489 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.297604 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.297662 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2100.000000
+2019-Mar-03 22:15:51.297750 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.308181 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.331140 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.334561 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.339098 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.344667 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.347702 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.349665 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.349908 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000029
+2019-Mar-03 22:15:51.350032 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (40.163319, 147.838745, -41.572790)
+2019-Mar-03 22:15:51.350137 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.350221 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.350286 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2130.000000
+2019-Mar-03 22:15:51.350345 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.352676 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.362295 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.382957 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.384438 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.396648 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.401073 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000006
+2019-Mar-03 22:15:51.401420 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (41.649947, -238.065999, -85.962991)
+2019-Mar-03 22:15:51.401754 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.401852 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.401941 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2160.000000
+2019-Mar-03 22:15:51.402048 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.414646 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.440226 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.449887 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.453138 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000009
+2019-Mar-03 22:15:51.453225 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-64.239148, 158.113382, -70.595546)
+2019-Mar-03 22:15:51.453287 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.453340 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.453392 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2190.000000
+2019-Mar-03 22:15:51.453482 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.460042 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.461818 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.492159 info[fractal.cpp:112] [34m[INFO] Failed to attach to (14.023263, -93.466371, -27.819683). Trying new monomer.
+2019-Mar-03 22:15:51.493751 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.507465 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000002
+2019-Mar-03 22:15:51.507622 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-38.548127, -116.378535, -227.974424)
+2019-Mar-03 22:15:51.507711 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.507775 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.507829 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2220.000000
+2019-Mar-03 22:15:51.507924 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.510698 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-94.023067, -126.603114, 69.316017). Trying new monomer.
+2019-Mar-03 22:15:51.551648 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.
+2019-Mar-03 22:15:51.553139 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000006
+2019-Mar-03 22:15:51.553259 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-119.300277, 126.330796, -125.618099)
+2019-Mar-03 22:15:51.553403 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2019-Mar-03 22:15:51.553508 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2019-Mar-03 22:15:51.553592 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 2250.000000
+2019-Mar-03 22:15:51.553689 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2019-Mar-03 22:15:51.556472 info[fractal.cpp:112] [34m[INFO] Failed to attach to (96.978315, -97.251432, -36.640158). Trying new monomer.

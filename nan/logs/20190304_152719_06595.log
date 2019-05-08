@@ -1,0 +1,8 @@
+2019-Mar-04 15:27:19.721181 info[main.cpp:134] [34m[INFO] Good input: fractal dimension
+2019-Mar-04 15:27:19.722119 info[main.cpp:232] [34m[INFO] CLI argument df=2.200000
+2019-Mar-04 15:27:19.722256 info[main.cpp:150] [34m[INFO] Good input: prefactor
+2019-Mar-04 15:27:19.722387 info[main.cpp:241] [34m[INFO] CLI argument kf=1.130000
+2019-Mar-04 15:27:19.722474 info[main.cpp:166] [34m[INFO] Good input: monomer count
+2019-Mar-04 15:27:19.722547 info[main.cpp:250] [34m[INFO] CLI argument n=10
+2019-Mar-04 15:27:19.722639 warning[main.cpp:178] [33m[WARN] Overlap Factor is invalid. It must be a decimal with the bounds [0.5, 1.0]
+
