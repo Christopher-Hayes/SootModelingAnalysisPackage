@@ -1,0 +1,7 @@
+2018-Jul-19 11:20:14.082754 info[fractal.cpp:112] [34m[INFO] Failed to attach to (170.816260, -35.291451, -15.581292). Trying new monomer.
+2018-Jul-19 11:20:14.083595 info[fractal.cpp:112] [34m[INFO] Failed to attach to (-375.562494, 88.684784, -71.813636). Trying new monomer.
+2018-Jul-19 11:20:14.085099 info[fractal.cpp:112] [34m[INFO] Failed to attach to (170.816260, -35.291451, -15.581292). Trying new monomer.
+2018-Jul-19 11:20:14.085667 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000000
+2018-Jul-19 11:20:14.085698 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-414.142507, 186.307544, -137.981593)
+2018-Jul-19 11:20:14.085714 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:20:14.085736 error[main.cpp:340] [31m[ERROR] ./run_output/run_20180719_15:20:07.063861/xyz_run_1.txt

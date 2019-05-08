@@ -1,0 +1,161 @@
+2018-Jul-19 11:22:24.463027 info[main.cpp:234] [34m[INFO] Using default value for fractal dimension. df=2.200000
+2018-Jul-19 11:22:24.463661 info[main.cpp:243] [34m[INFO] Using default value for prefactor. kf=1.130000
+2018-Jul-19 11:22:24.463776 info[main.cpp:165] [34m[INFO] Good input: monomer count
+2018-Jul-19 11:22:24.463842 info[main.cpp:249] [34m[INFO] CLI argument n=250
+2018-Jul-19 11:22:24.463902 info[main.cpp:261] [34m[INFO] Using default value for overlap. k=1.000000
+2018-Jul-19 11:22:24.463965 info[main.cpp:270] [34m[INFO] Using default value for epsilon. e=0.050000
+2018-Jul-19 11:22:24.464027 info[main.cpp:275] [34m[INFO] Running batch..
+2018-Jul-19 11:22:24.464392 info[fractal.cpp:31] [34m[INFO] Fractal initialized successfully. df, kf, k are good.
+2018-Jul-19 11:22:24.464477 info[fractal.cpp:40] [34m[INFO] Generating fractal..
+2018-Jul-19 11:22:24.464535 info[fractal.cpp:67] [34m[INFO] Adding fractal monomer center at (0.0, 0.0, 0.0)
+2018-Jul-19 11:22:24.464591 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (0.000000, 0.000000, 0.000000)
+2018-Jul-19 11:22:24.464658 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.464716 info[fractal.cpp:70] [34m[INFO] Attaching random monomer to center monomer.
+2018-Jul-19 11:22:24.464829 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-45.551423, -28.012393, -27.209810)
+2018-Jul-19 11:22:24.464907 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.464962 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.465017 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2018-Jul-19 11:22:24.465097 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.468594 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000035
+2018-Jul-19 11:22:24.468734 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-62.919321, -39.253813, -83.530202)
+2018-Jul-19 11:22:24.468785 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.468829 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.468867 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 90.000000
+2018-Jul-19 11:22:24.468929 info[fractal.cpp:143] [34m[INFO] Under epsilon in 9 attempts.
+2018-Jul-19 11:22:24.472250 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000091
+2018-Jul-19 11:22:24.472321 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-57.571960, 17.236543, -103.030087)
+2018-Jul-19 11:22:24.472356 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.472383 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.472410 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 120.000000
+2018-Jul-19 11:22:24.472446 info[fractal.cpp:143] [34m[INFO] Under epsilon in 4 attempts.
+2018-Jul-19 11:22:24.475785 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000008
+2018-Jul-19 11:22:24.475844 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-50.653967, -1.009587, 32.142750)
+2018-Jul-19 11:22:24.475871 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.475890 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.475911 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 150.000000
+2018-Jul-19 11:22:24.475935 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.478960 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000104
+2018-Jul-19 11:22:24.479021 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (18.215164, 55.728528, -12.749076)
+2018-Jul-19 11:22:24.479052 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.479074 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.479096 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 180.000000
+2018-Jul-19 11:22:24.479136 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.482052 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000012
+2018-Jul-19 11:22:24.482108 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-113.793276, 26.183089, -84.079548)
+2018-Jul-19 11:22:24.482132 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.482149 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.482165 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 210.000000
+2018-Jul-19 11:22:24.482187 info[fractal.cpp:143] [34m[INFO] Under epsilon in 4 attempts.
+2018-Jul-19 11:22:24.485048 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000032
+2018-Jul-19 11:22:24.485122 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-5.426671, 101.489864, -43.521853)
+2018-Jul-19 11:22:24.485148 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.485167 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.485185 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 240.000000
+2018-Jul-19 11:22:24.485212 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.487917 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000049
+2018-Jul-19 11:22:24.488002 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (6.692635, 7.775722, 59.116383)
+2018-Jul-19 11:22:24.488021 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.488036 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.488051 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 270.000000
+2018-Jul-19 11:22:24.488073 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.490888 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000046
+2018-Jul-19 11:22:24.490938 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (60.632478, 76.750754, -49.611489)
+2018-Jul-19 11:22:24.490958 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.490971 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.490984 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 300.000000
+2018-Jul-19 11:22:24.491000 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.493533 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000096
+2018-Jul-19 11:22:24.493578 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-15.220609, 58.599123, 82.285148)
+2018-Jul-19 11:22:24.493598 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.493612 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.493625 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 330.000000
+2018-Jul-19 11:22:24.493644 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.496172 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000024
+2018-Jul-19 11:22:24.496229 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (75.879422, 38.651937, -93.383750)
+2018-Jul-19 11:22:24.496245 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.496256 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.496267 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 360.000000
+2018-Jul-19 11:22:24.496282 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.498775 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000004
+2018-Jul-19 11:22:24.498824 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-13.036496, 137.987488, -90.532639)
+2018-Jul-19 11:22:24.498848 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.498871 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.498883 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 390.000000
+2018-Jul-19 11:22:24.498898 info[fractal.cpp:143] [34m[INFO] Under epsilon in 5 attempts.
+2018-Jul-19 11:22:24.501352 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000035
+2018-Jul-19 11:22:24.501397 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-10.798913, -48.207678, 71.761728)
+2018-Jul-19 11:22:24.501414 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.501427 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.501440 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 420.000000
+2018-Jul-19 11:22:24.501459 info[fractal.cpp:143] [34m[INFO] Under epsilon in 3 attempts.
+2018-Jul-19 11:22:24.504100 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000080
+2018-Jul-19 11:22:24.504205 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (47.922685, -56.055789, 62.265355)
+2018-Jul-19 11:22:24.504224 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.504236 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.504248 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 450.000000
+2018-Jul-19 11:22:24.504272 info[fractal.cpp:143] [34m[INFO] Under epsilon in 3 attempts.
+2018-Jul-19 11:22:24.507091 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000021
+2018-Jul-19 11:22:24.507264 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-12.380496, 162.898854, -35.952482)
+2018-Jul-19 11:22:24.507307 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.507326 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.507350 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 480.000000
+2018-Jul-19 11:22:24.507383 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.510345 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000106
+2018-Jul-19 11:22:24.510392 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (91.208832, 128.201612, -53.841822)
+2018-Jul-19 11:22:24.510406 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.510420 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.510431 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 510.000000
+2018-Jul-19 11:22:24.510446 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.513546 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000006
+2018-Jul-19 11:22:24.513676 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-52.774621, 123.108429, -132.953094)
+2018-Jul-19 11:22:24.513702 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.513718 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.513744 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 540.000000
+2018-Jul-19 11:22:24.513778 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.516996 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000050
+2018-Jul-19 11:22:24.517116 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (32.184920, 3.606966, 113.271391)
+2018-Jul-19 11:22:24.517139 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.517154 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.517169 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 570.000000
+2018-Jul-19 11:22:24.517192 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.521089 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000005
+2018-Jul-19 11:22:24.521167 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-32.067798, -78.180009, -117.189298)
+2018-Jul-19 11:22:24.521196 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.521210 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.521222 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 600.000000
+2018-Jul-19 11:22:24.521245 info[fractal.cpp:143] [34m[INFO] Under epsilon in 2 attempts.
+2018-Jul-19 11:22:24.524875 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000006
+2018-Jul-19 11:22:24.524924 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (26.298719, -79.043819, -131.067464)
+2018-Jul-19 11:22:24.524940 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.524952 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.524963 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 630.000000
+2018-Jul-19 11:22:24.524981 info[fractal.cpp:143] [34m[INFO] Under epsilon in 5 attempts.
+2018-Jul-19 11:22:24.528496 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000003
+2018-Jul-19 11:22:24.528536 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (1.733235, 129.188665, -157.282589)
+2018-Jul-19 11:22:24.528550 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.528561 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.528572 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 660.000000
+2018-Jul-19 11:22:24.528584 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.532411 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000048
+2018-Jul-19 11:22:24.532453 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (105.424848, -58.246260, 45.274090)
+2018-Jul-19 11:22:24.532467 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.532479 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.532490 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 690.000000
+2018-Jul-19 11:22:24.532502 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.536254 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000037
+2018-Jul-19 11:22:24.536303 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-60.551047, 85.689683, -179.206360)
+2018-Jul-19 11:22:24.536318 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.536330 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.536341 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 720.000000
+2018-Jul-19 11:22:24.536356 info[fractal.cpp:143] [34m[INFO] Under epsilon in 1 attempts.
+2018-Jul-19 11:22:24.540088 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000068
+2018-Jul-19 11:22:24.540130 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (-20.022160, 52.079015, -207.976697)
+2018-Jul-19 11:22:24.540144 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.540155 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.540165 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 750.000000
+2018-Jul-19 11:22:24.540179 info[fractal.cpp:143] [34m[INFO] Under epsilon in 4 attempts.
+2018-Jul-19 11:22:24.544026 info[fractal.cpp:152] [34m[INFO] Actual epsilon = 0.000020
+2018-Jul-19 11:22:24.544073 info[fractal.cpp:86] [34m[INFO] Adding monomer at point (78.798056, -103.831821, -115.922348)
+2018-Jul-19 11:22:24.544087 info[fractal.cpp:175] [34m[INFO] Fractal parameters updated.
+2018-Jul-19 11:22:24.544098 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 11:22:24.544110 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 780.000000

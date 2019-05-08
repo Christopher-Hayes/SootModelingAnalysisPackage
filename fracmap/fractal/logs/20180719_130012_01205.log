@@ -1,0 +1,10 @@
+2018-Jul-19 13:00:12.797060 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.578870
+  epsilon = 0.050000
+2018-Jul-19 13:00:12.797221 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 13:00:12.797242 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
+2018-Jul-19 13:00:12.798051 fatal[fractal.cpp:155] [31m[FATAL] Best monomer did not satisfy epsilon.
+  best_diff / _a = 0.578889
+  epsilon = 0.050000
+2018-Jul-19 13:00:12.798075 info[fractal.cpp:73] [34m[INFO] Adding new monomer to fractal using Monte Carlo algorithm.
+2018-Jul-19 13:00:12.798087 info[fractal.cpp:121] [34m[INFO] Out of range best_monomer = 60.000000
